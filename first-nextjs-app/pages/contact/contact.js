@@ -8,7 +8,7 @@ function Contact() {
       <ul>
         <li>7024370634</li>
         <li>linkedin</li>
-        <li>github</li>
+        <li>GitHub</li>
       </ul>
       <button className = {styles.back_to_home}
         onClick={() => {
